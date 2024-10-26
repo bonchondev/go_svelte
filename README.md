@@ -4,8 +4,6 @@ This is a template for start using the [Golang Inertia Adapter](https://github.c
 
 Other template: [Vue Example w/ Gonertia](https://github.com/henrriusdev/gonertia_vue_example)
 
-## How to contribute
-
-- Create a local branch or fork
-- Upload the changes
-- Make PR (understandable) 
+1. Create public folder at root of project
+2. build it once with npm/pnpm/etc
+3. for HMR run both 'npm run dev' and 'go run .'
